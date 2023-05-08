@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//平均点を求めるプログラム
+
 int main()
 {
 	int student[5];
@@ -21,7 +23,7 @@ int main()
 	}
 
 	avg = sum / 5.0;
-	cout << "���ϓ_��" << avg << "�_�ł��B\n";
+	cout << "•½‹Ï“_‚Í" << avg << "“_‚Å‚·B\n";
 
 	return 0;
 }
