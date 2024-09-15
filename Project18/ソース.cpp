@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//平均点を求めるプログラム
+//複数の生徒の平均点を求めるプログラム
 
 int main()
 {
